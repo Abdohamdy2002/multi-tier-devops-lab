@@ -1,1 +1,1 @@
-# multi-tier-devops-lab
+# Multi-Tier DevOps Lab - Kubernetes + Jenkins
